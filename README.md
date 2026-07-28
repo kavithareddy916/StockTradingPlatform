@@ -1,9 +1,9 @@
-# Stock Trading Platform
+# 📈 Stock Trading Platform
 
-## Description
-A Java console-based Stock Trading Platform developed as part of the CodeAlpha Java Programming Internship.
+A Java console-based **Stock Trading Platform** developed as part of the **CodeAlpha Java Programming Internship**.
 
-## Features
+## 🚀 Features
+
 - Buy Stocks
 - View Portfolio
 - Calculate Total Investment
@@ -11,18 +11,60 @@ A Java console-based Stock Trading Platform developed as part of the CodeAlpha J
 - Menu-driven Console Application
 - File Handling
 
-## Technologies Used
+## 🛠 Technologies Used
+
 - Java
 - IntelliJ IDEA
 - Object-Oriented Programming (OOP)
-- File Handling
+- Git & GitHub
 
-## Project Structure
-- Main.java
-- Stock.java
-- Portfolio.java
-- Transaction.java
-- FileManager.java
+## 📂 Project Structure
 
-## Author
-Kavitha Reddy
+```
+StockTradingPlatform
+│
+├── src
+│   ├── Main.java
+│   ├── Stock.java
+│   ├── Portfolio.java
+│   ├── Transaction.java
+│   └── FileManager.java
+│
+├── .gitignore
+├── StockTradingPlatform.iml
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Open the project in IntelliJ IDEA.
+3. Run `Main.java`.
+4. Select an option from the menu.
+5. Buy stocks, view your portfolio, or save the portfolio report.
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Buy Stock
+
+![Buy Stock](screenshots/buy-stock.png)
+
+### Portfolio
+
+![Portfolio](screenshots/portfolio.png)
+
+### Exit
+
+![Exit](screenshots/exit.png)
+
+## 👩‍💻 Author
+
+**Kavitha Reddy**
+
+---
+
+⭐ Developed as part of the **CodeAlpha Java Programming Internship**.
