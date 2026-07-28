@@ -20,8 +20,14 @@ A Java console-based **Stock Trading Platform** developed as part of the **CodeA
 
 ## 📂 Project Structure
 
-```
+```text
 StockTradingPlatform
+│
+├── screenshots
+│   ├── menu.png
+│   ├── buy-stock.png
+│   ├── portfolio.png
+│   └── exit.png
 │
 ├── src
 │   ├── Main.java
